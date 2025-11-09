@@ -64,6 +64,12 @@ This approach makes it ideal for **covert communication** and **secure informati
 
 ---
 
+## Implementation
+<img width="1251" height="780" alt="image" src="https://github.com/user-attachments/assets/6b3c6611-cd8a-46e0-8935-2579d5a56bac" />
+
+---
+
+
 ## 📊 Results and Discussion
 The implementation demonstrates that large image data can be embedded into standard `.wav` audio without noticeable degradation in sound quality.  
 Spectrogram analysis shows minimal waveform variation, validating the effectiveness of LSB-based embedding.  
